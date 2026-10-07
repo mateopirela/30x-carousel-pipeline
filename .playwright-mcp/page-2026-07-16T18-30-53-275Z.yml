@@ -1,0 +1,236 @@
+- generic [ref=f17e4]:
+  - generic [ref=f17e9]:
+    - generic [ref=f17e12]:
+      - link [ref=f17e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=f17e22]
+      - generic [ref=f17e25]:
+        - link [ref=f17e30] [cursor=pointer]:
+          - /url: /
+          - img "Home" [ref=f17e35]
+        - link [ref=f17e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=f17e45]
+        - link [ref=f17e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Messages" [ref=f17e57]
+        - link [ref=f17e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Search" [ref=f17e68]
+        - link [ref=f17e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notifications" [ref=f17e80]
+        - link [ref=f17e86] [cursor=pointer]:
+          - /url: "#"
+          - img "New post" [ref=f17e91]
+        - link [ref=f17e97] [cursor=pointer]:
+          - /url: /mateopirela/
+          - link [ref=f17e102]:
+            - img "mateopirela's profile picture" [ref=f17e103]
+      - generic [ref=f17e104]:
+        - link [ref=f17e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Settings" [ref=f17e112]
+        - link [ref=f17e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Also from Meta" [ref=f17e120]
+    - generic [ref=f17e123]:
+      - main [ref=f17e124]:
+        - generic [ref=f17e125]:
+          - generic [ref=f17e141]:
+            - generic [ref=f17e143]:
+              - button [disabled] [ref=f17e148]:
+                - link [disabled] [ref=f17e150] [cursor=pointer]:
+                  - img "askpstudyinaustralia's profile picture" [ref=f17e151]
+              - generic [ref=f17e154]:
+                - generic [ref=f17e158]:
+                  - link "askpstudyinaustralia" [ref=f17e163] [cursor=pointer]:
+                    - /url: /askpstudyinaustralia/
+                  - img "Verified" [ref=f17e168]
+                - button "Follow" [ref=f17e171] [cursor=pointer]
+              - button [ref=f17e174] [cursor=pointer]:
+                - img "More options" [ref=f17e177]
+            - separator [ref=f17e181]
+            - generic [ref=f17e183]:
+              - generic [ref=f17e185]:
+                - link [ref=f17e190] [cursor=pointer]:
+                  - /url: /askpstudyinaustralia/
+                  - img "askpstudyinaustralia's profile picture" [ref=f17e191]
+                - generic [ref=f17e193]:
+                  - generic [ref=f17e195]:
+                    - generic [ref=f17e196]:
+                      - link "askpstudyinaustralia Verified" [ref=f17e200] [cursor=pointer]:
+                        - /url: /askpstudyinaustralia/
+                        - generic [ref=f17e202]:
+                          - generic [ref=f17e203]: askpstudyinaustralia
+                          - img "Verified" [ref=f17e205]
+                      - time [ref=f17e208]: 1w
+                    - generic [ref=f17e209]:
+                      - text: Raw data rarely speaks for itselfClarity comes when you sort it, shape it, show it & tell its story “Storytelling is the most powerful way to put ideas into the world”- Robert McKee
+                      - link "#researchcommunication" [ref=f17e210] [cursor=pointer]:
+                        - /url: /explore/tags/researchcommunication/
+                  - button "See translation" [ref=f17e212] [cursor=pointer]
+              - progressbar [ref=f17e216]:
+                - img "Loading..." [ref=f17e217]
+            - generic [ref=f17e230]:
+              - generic [ref=f17e231]:
+                - generic [ref=f17e232]:
+                  - button [ref=f17e235] [cursor=pointer]:
+                    - img "Like" [ref=f17e238]
+                  - button "7.3K" [ref=f17e240] [cursor=pointer]
+                  - button [ref=f17e242] [cursor=pointer]:
+                    - img "Comment" [ref=f17e244]
+                  - button "32" [ref=f17e246] [cursor=pointer]
+                  - button [ref=f17e247] [cursor=pointer]:
+                    - img "Repost" [ref=f17e248]
+                  - button "390" [ref=f17e250] [cursor=pointer]
+                  - button [ref=f17e251] [cursor=pointer]:
+                    - img "Share" [ref=f17e252]
+                - button [ref=f17e257] [cursor=pointer]:
+                  - button [ref=f17e258]:
+                    - img "Save" [ref=f17e260]
+              - link [ref=f17e264] [cursor=pointer]:
+                - /url: /askpstudyinaustralia/p/DaUJwm7CaqW/
+                - time [ref=f17e266]: July 2
+            - generic [ref=f17e269]:
+              - link [ref=f17e270]
+              - generic [ref=f17e272]:
+                - button [ref=f17e274] [cursor=pointer]:
+                  - img "Emoji" [ref=f17e276]
+                - textbox "Add a comment…" [ref=f17e278]
+          - separator [ref=f17e280]
+          - generic [ref=f17e281]:
+            - generic [ref=f17e283]:
+              - text: More posts from
+              - link "askpstudyinaustralia" [ref=f17e284] [cursor=pointer]:
+                - /url: /askpstudyinaustralia/
+            - generic [ref=f17e287]:
+              - generic [ref=f17e288]:
+                - link [ref=f17e290] [cursor=pointer]:
+                  - /url: /askpstudyinaustralia/reel/CysO8EWpqBy/
+                  - 'img "𝐇𝐞𝐫𝐞 𝐚𝐫𝐞 𝐬𝐨𝐦𝐞 𝐭𝐢𝐩𝐬 𝐟𝐨𝐫 𝐠𝐞𝐭𝐭𝐢𝐧𝐠 𝐚 𝐬𝐜𝐡𝐨𝐥𝐚𝐫𝐬𝐡𝐢𝐩 𝐭𝐨 𝐬𝐭𝐮𝐝𝐲 𝐢𝐧 𝐀𝐮𝐬𝐭𝐫𝐚𝐥𝐢𝐚. #studyinaustralia🇦🇺 #askpstudyinaustralia #phdlife #studyabroad #scholarships" [ref=f17e293]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - link [ref=f17e296] [cursor=pointer]:
+                  - /url: /askpstudyinaustralia/reel/DCZcbTUSKHe/
+                  - 'img "Australia heavily needs skill workers in the following sectors. If your occupation is listed below, u can actually move to Australia & even bring family along: ➤Construction managers ➤Early childhood teachers ➤Registered nurses ➤Electricians ➤Chefs ➤Child carers ➤Age and disability carers ➤ICT (information and communications technology) business and systems analysts ➤Software and applications programmers etc ➤Civil engineering professionals The link below contains a list of different jobseeker visa types for visa sponsorship jobs👇 https://www.askpstudyinaustralia.com/2022/11/australian-job-seeker-visa-types.html?m=1 #reels #australia #vi #viralreels #opportunities" [ref=f17e299]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - link [ref=f17e302] [cursor=pointer]:
+                  - /url: /askpstudyinaustralia/reel/CySeWMzpecW/
+                  - 'img "Study in Australia for free: Top popular scholarships for international students to study in Australia #studyinaustralia #scholarship #studyabroad #studyabroadlife #explorepage #viralreels" [ref=f17e305]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+              - generic [ref=f17e307]:
+                - link [ref=f17e309] [cursor=pointer]:
+                  - /url: /askpstudyinaustralia/p/Da26bCnglu6/
+                  - img "The Business Strategy Matrix (For Next-Level Leaders)" [ref=f17e312]
+                - link [ref=f17e315] [cursor=pointer]:
+                  - /url: /askpstudyinaustralia/p/Da2udUQE2mv/
+                  - img "How to Create High-Performance Teams For Next-Level Leaders" [ref=f17e318]
+                - link [ref=f17e321] [cursor=pointer]:
+                  - /url: /askpstudyinaustralia/p/Da2sr1TDx69/
+                  - img "Habits for Humanity in the Age of AI Link://www.aei.org/op-eds/habits-for-humanity-in-the-age-of-ai/" [ref=f17e324]
+      - contentinfo [ref=f17e326]:
+        - generic [ref=f17e327]:
+          - generic [ref=f17e329]:
+            - link "Meta" [ref=f17e331] [cursor=pointer]:
+              - /url: https://about.meta.com/
+            - link "About" [ref=f17e334] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+            - link "Blog" [ref=f17e337] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+            - link "Jobs" [ref=f17e340] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+            - link "Help" [ref=f17e343] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+            - link "API" [ref=f17e346] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+            - link "Privacy" [ref=f17e349] [cursor=pointer]:
+              - /url: /legal/privacy/
+            - link "Terms" [ref=f17e352] [cursor=pointer]:
+              - /url: /legal/terms/
+            - link "Locations" [ref=f17e355] [cursor=pointer]:
+              - /url: /explore/locations/
+            - link "Popular" [ref=f17e358] [cursor=pointer]:
+              - /url: /popular/
+            - link "Instagram Lite" [ref=f17e361] [cursor=pointer]:
+              - /url: /web/lite/
+            - link "Meta AI" [ref=f17e364] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+            - link "Threads" [ref=f17e367] [cursor=pointer]:
+              - /url: https://www.threads.com/
+            - link "Contact Uploading & Non-Users" [ref=f17e370] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+            - link "Meta Verified" [ref=f17e373] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+          - generic [ref=f17e375]:
+            - generic [ref=f17e376] [cursor=pointer]:
+              - generic [ref=f17e377]:
+                - generic [ref=f17e378]: English
+                - img "Down chevron icon" [ref=f17e381]
+              - combobox "Switch Display Language" [ref=f17e383]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English" [selected]
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)"
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=f17e384]: © 2026 Instagram from Meta
+  - button "Messages Messages" [ref=f17e387] [cursor=pointer]:
+    - generic [ref=f17e389]:
+      - img "Messages" [ref=f17e391]
+      - generic [ref=f17e394]: Messages
